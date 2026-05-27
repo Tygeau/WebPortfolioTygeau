@@ -117,3 +117,7 @@ ul li a.active {
 ul li a:hover{
     background-color: #b20710;
 }
+
+p {
+    font-size: medium;
+}
